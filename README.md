@@ -15,7 +15,7 @@
 
 
 
-- 🔭 I’m currently working on this page. 
+- 🔭  making a simple web diary. 
 - 🌱 I’m currently learning Node.js 
 - 📫 How to reach me: anfto10@gmail.com 
 
@@ -24,11 +24,6 @@
 
 
 
-
-#### What I do these days  :
- 📖 studying react.js <br />
- 🔧 making a simple web diary
-  
 #### future plans :
  📕 Studying algorithms and data structures. <br />
  📘 Studying another language. <br />
