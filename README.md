@@ -26,7 +26,7 @@
 
 
 #### What I do these days  :
- 📖 studying Node.js <br />
+ 📖 studying react.js <br />
  🔧 making a simple web diary
   
 #### future plans :
