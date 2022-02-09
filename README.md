@@ -16,7 +16,7 @@
 
 
 - 🔭  making a simple web diary. 
-- 🌱 I’m currently learning Node.js 
+- 🌱 I’m currently learning js 
 - 📫 How to reach me: anfto10@gmail.com 
 
 
@@ -33,9 +33,6 @@
 #### What I have :
  📄 Industrial Engineer Information Processing
 
-#### to me :
-  ⌛ Let's not waste each day. <br />
-  If I don't waste my days, one day I'll have a chance.
 
 
 
