@@ -1,37 +1,33 @@
 
-### Hi there , my name is Chanwool 👋
-#### I am a new web developer who is still studying. I look forward to your kind cooperation.
+### 안녕하세요 👋
+#### 저는 신입 웹개발자인 오찬울 입니다.
 
-#### Language and Tools :
+-----
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/> </a> 
+#### 친근한 
+ <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+ 
+#### 시도중인 
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 
-
-
-
-- 🔭  making a simple web diary. 
-- 🌱 I’m currently learning js 
-- 📫 How to reach me: anfto10@gmail.com 
-
+## 지금 하는것들
+- 🔭 웹 다이어리를 제작중에 있습니다. 
+- 🌱 vue.js 를 공부중에 있습니다. 
+- 📫 email : anfto10@gmail.com 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiterock5)](https://github.com/anuraghazra/github-readme-stats)
 
+#### - 내가가진것들 
+ 📄 정보처리산업기사 
+ 📄 웹디자인 기능사
 
-
-#### future plans :
- 📕 Studying algorithms and data structures. <br />
- 📘 Studying another language. <br />
- 🏫 I will transfer to Korea Communications University and receive a bachelor's degree. <br />
- 📄 Engineer Information Processing.
+#### - 지금이나, 미래에 필요한것들
+ 📕 알고리즘 및 자료구조 공부 <br />
+ 📘 다른 언어 공부 <br />
+ 🏫 학사 학위 취득 <br />
+ 📄 정보처리기사 자격증 취득
   
-#### What I have :
- 📄 Industrial Engineer Information Processing
+
 
 
 
