@@ -12,6 +12,7 @@
 #### 지금 하는것들
 - 🔭 웹 다이어리를 제작중에 있습니다. 
 - 🌱 vue.js 를 공부중에 있습니다. 
+- 🏫 방송통신대학 컴퓨터과학과 재학중에 있습니다.
 - 📫 email : anfto10@gmail.com 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiterock5)](https://github.com/anuraghazra/github-readme-stats)
