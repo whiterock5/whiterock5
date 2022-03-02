@@ -10,9 +10,8 @@
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 
 #### 지금 하는것들
-- 🔭 웹 다이어리를 제작중에 있습니다. 
-- ~~🌱 vue.js 를 공부중에 있습니다. (보류)~~
-- 🏫 방송통신대학 컴퓨터과학과 재학중에 있습니다.
+- 📕 프로그래밍 책읽기. 
+- 🏫 방송통신대학 컴퓨터과학과 재학중.
 - 📫 email : anfto10@gmail.com 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiterock5)](https://github.com/anuraghazra/github-readme-stats)
